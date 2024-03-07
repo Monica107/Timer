@@ -1,0 +1,54 @@
+.head{
+    margin-top: 10vh;
+    margin-left: 38%;
+    padding: 5px;
+    border-radius: 10px;
+    color: white;
+    background-color: green;
+    width: 20vw;
+    cursor: pointer;
+    text-align: center;
+}
+.container{
+    text-align: center;
+    margin-top: 5vh;
+    margin-left: 40%;
+    margin-right:90%;
+    font-size: 40px;
+}
+.head-1{
+    margin-top: 5vh;
+    margin-left: 38%;
+    padding: 5px;
+    border-radius: 10px;
+    color: white;
+    background-color: green;
+    width: 20vw;
+    cursor: pointer;
+    text-align: center;
+}.custom-button{
+    background-color: rgb(32, 126, 32);
+    width: 20px;
+    border-radius:50px;
+    color: rgb(242, 226, 226);
+    padding:4px;
+    
+    text-align: center;
+    cursor: pointer;
+    h1 {
+        text-align: justify;
+    }
+}.container-timer{
+    display: flex;
+    margin :60%;
+    
+}.header{
+    text-align: center;
+}
+
+
+    
+        /* Apply text justification to the h1 tag */
+       
+    
+
